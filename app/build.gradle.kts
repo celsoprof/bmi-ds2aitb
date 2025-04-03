@@ -56,4 +56,11 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+
+    // Dependência de ícones adicionais
+    implementation(libs.androidx.material.icons.extended.android)
+
+    // Dependência da Navegação entre telas
+    implementation("androidx.navigation:navigation-compose:2.8.9")
+
 }

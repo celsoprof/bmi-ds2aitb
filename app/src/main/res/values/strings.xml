@@ -4,4 +4,20 @@
     <string name="welcome">Welcome!</string>
     <string name="your_name">What\'s your name</string>
     <string name="next">Next</string>
+    <string name="hi">Hi</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age">Age</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="calculate">Calculate</string>
+    <string name="your_result">Your BMI Result</string>
+    <string name="new_calculate">New calculate</string>
+    <string name="name_error_message">The user name is required!</string>
+    <string name="obesity_1">You have Class I Obesity!</string>
+    <string name="obesity_2">You have Class II Obesity!</string>
+    <string name="obesity_3">You have Class III Obesity!</string>
+    <string name="normal">You have normal body weight!</string>
+    <string name="under_weight">You are below your ideal weight!</string>
+    <string name="over_weight">You are slightly overweight!</string>
 </resources>
